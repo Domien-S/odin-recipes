@@ -1,0 +1,23 @@
+body{
+    background-color: lightgrey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+text-align: center;
+font-weight: bold;
+color: green;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+
+ul {
+    text-align: center;
+    
+}
